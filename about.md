@@ -1,7 +1,8 @@
 # About
+## Explanation
 
-# Links
+## Links
 
-# Updates
-## October 2025
+## Updates
+### October 2025
 - Site created
