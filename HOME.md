@@ -1,5 +1,7 @@
-# About
-Explain the goals of the project here
+---
+layout: page
+title: "HOME"
+---
 
 # Updates
 October 2025
