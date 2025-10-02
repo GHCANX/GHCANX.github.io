@@ -1,2 +1,7 @@
 # About
-Explain the goals of the project here
+
+# Links
+
+# Updates
+## October 2025
+- Site created
