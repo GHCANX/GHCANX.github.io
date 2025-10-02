@@ -1,4 +1,5 @@
-# Contact Info
+# Contact
+
 - Contact #1
 - Contact #2
 - Contact #3
